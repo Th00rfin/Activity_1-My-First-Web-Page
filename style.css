@@ -1,0 +1,11 @@
+body {
+    font-size: 15pt;
+    background-color: seagreen;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: blue;
+}
